@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: c1
     spec:
       containers:
-        - image: "098098098"
+        - image: "hellomom"
           imagePullPolicy: Always
           livenessProbe:
             httpGet:

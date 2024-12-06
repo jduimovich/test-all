@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: "098098098"
+        - image: "hellomom"
           name: container-image
